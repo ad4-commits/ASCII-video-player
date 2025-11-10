@@ -1,18 +1,16 @@
-# ASCII-video-player
-Ever wanted to see how your favorite video would look like in ASCII art? Well now you can with ASCII-video-player
+# ASCII Video Player
 
-https://github.com/user-attachments/assets/f080046a-67b2-4180-a7d3-574013860853
+A Python-based ASCII video player that converts video files into ASCII art in real-time.
 
-## Requirements
-* Python >= 3.12
-* Pipenv
+## Features
+- Real-time ASCII video conversion
+- GUI interface with video controls
+- Support for various video formats
 
-## How to use
-1. Clone this repo
-2. Run `pipenv install`
-3. Run `pipenv run src/main.py` [1]
-4. Choose your favorite video
-5. Wait for the video to be processed
-6. Enjoy!
+## Usage
+1. Run the application: `pipenv run python src/main.py`
+2. Click "Choose a video!" to load your video file
+3. Enjoy the ASCII art version of your video!
 
-[1] You can specify the following flag `-t=B` to run the app but with a _**night theme**_ (as shown in the example video).
+## Example
+The player can convert any video file to ASCII art. Try it with your own videos!
