@@ -163,3 +163,7 @@ cython_debug/
 
 # Media folder with test images
 media/
+*.mp4
+*.avi
+*.mov
+*.mkv
