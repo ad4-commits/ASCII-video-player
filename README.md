@@ -2,6 +2,8 @@
 
 A Python-based ASCII video player that converts video files into ASCII art in real-time.
 
+![ASCII Video Player with Crazy Frog](images/crazy_frog.jpg)
+
 ## Features
 - Real-time ASCII video conversion
 - GUI interface with video controls
@@ -11,6 +13,3 @@ A Python-based ASCII video player that converts video files into ASCII art in re
 1. Run the application: `pipenv run python src/main.py`
 2. Click "Choose a video!" to load your video file
 3. Enjoy the ASCII art version of your video!
-
-## Example
-The player can convert any video file to ASCII art. Try it with your own videos!
